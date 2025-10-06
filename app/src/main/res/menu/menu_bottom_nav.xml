@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_24" />
+    <item
+        android:id="@+id/nav_events"
+        android:title="Events"
+        android:icon="@drawable/ic_event_24" />
+    <item
+        android:id="@+id/nav_roster"
+        android:title="Roster"
+        android:icon="@drawable/ic_people_24" />
+    <item
+        android:id="@+id/nav_more"
+        android:title="More"
+        android:icon="@drawable/ic_more_24" />
+</menu>
