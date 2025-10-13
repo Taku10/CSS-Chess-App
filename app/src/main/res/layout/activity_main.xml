@@ -61,7 +61,7 @@
                         android:id="@+id/tvTitle"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Welcome, Knight!"
+                        android:text="@string/welcome_knight"
                         android:textAppearance="@style/TextAppearance.Material3.TitleLarge" />
 
                     <TextView
@@ -118,7 +118,7 @@
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
 
-            <!-- Announcement -->
+            <!-- This is for the announcements -->
             <TextView
                 android:id="@+id/labelAnnouncements"
                 android:layout_width="match_parent"
@@ -157,7 +157,7 @@
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
 
-            <!-- Events -->
+            <!-- Populate all the events that are being hosted -->
             <TextView
                 android:id="@+id/labelEvents"
                 android:layout_width="match_parent"
