@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420251111233",
+    "project_id": "css-chess-club-app",
+    "storage_bucket": "css-chess-club-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420251111233:android:30e5e7ef2a6a930c3d5bc0",
+        "android_client_info": {
+          "package_name": "com.example.csschessclubapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MFjTpHF_OxM-cFX79sV3FnUZTGSP6bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
